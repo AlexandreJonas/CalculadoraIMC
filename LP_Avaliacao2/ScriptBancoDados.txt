@@ -1,0 +1,12 @@
+create database LP_Avaliacao2;
+use LP_Avaliacao2;
+
+create table Aluno (
+	id int not null auto_increment,
+    cpf varchar(50) not null,
+    nome varchar(50) not null,
+    dataNascimento varchar(50),
+    peso int,
+    altura int,
+    primary key (id)
+    );

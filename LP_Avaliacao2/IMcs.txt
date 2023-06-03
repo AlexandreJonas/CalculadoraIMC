@@ -1,0 +1,30 @@
+Data do cálculo: 2023-05-31
+CPF: 999999
+Nome: Samuel
+IMC: 55.55555555555556
+Interpretação do IMC: Obesidade Grave
+===========================================================
+Data do cálculo: 2023-05-31
+CPF: 999999
+Nome: Samuel
+IMC: 55.55555555555556
+Interpretação do IMC: Obesidade Grave
+===========================================================
+Data do cálculo: 2023-05-31
+CPF: 88888
+Nome: Samuel Henrique
+IMC: 13.88888888888889
+Interpretação do IMC: Magreza
+===========================================================
+Data do cálculo: 2023-05-31
+CPF: 88888
+Nome: Juliana F.
+IMC: 31.25
+Interpretação do IMC: Obesidade
+===========================================================
+Data do cálculo: 2023-05-31
+CPF: 123456
+Nome: Alexandre
+IMC: 15.624999999999996
+Interpretação do IMC: Magreza
+===========================================================
